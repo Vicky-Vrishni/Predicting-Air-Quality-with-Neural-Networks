@@ -19,7 +19,7 @@ Air pollution is one of the biggest threats to human health and the environment 
 
 The model is trained on the Air Quality Data in India (2015 - 2020) dataset which contains city-wise daily air quality readings from multiple cities across India. The goal was to preprocess the data, analyze patterns, and build a model that can accurately predict AQI values.
 
-## Features
+## Features 
 
 - Loads and explores real air quality data from Indian cities (2015-2020)
 - Handles missing values by removing incomplete records
