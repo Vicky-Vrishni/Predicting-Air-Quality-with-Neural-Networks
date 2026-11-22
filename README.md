@@ -68,7 +68,7 @@ pip install -r requirements.txt
 - Matplotlib
 - Scikit-learn
 - Plotly
-- Jupyter 
+- Jupyter Notebook
 ## Results
 
 The Neural Network was trained for 150 epochs on the Air Quality Data in India (2015-2020) dataset. The model achieved a Mean Squared Error (MSE) of **444.50** on the test data. The training and validation loss curves showed steady improvement across epochs, confirming that the model learned meaningful patterns from the data.
